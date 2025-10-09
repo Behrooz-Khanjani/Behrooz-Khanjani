@@ -22,15 +22,15 @@
 ### 🚀 My Projects:
 | Project | Description | Link |
 |----------|--------------|------|
-| 🧠 **Hello AI** | My first AI project in Python | [View on GitHub](https://github.com/Behrooz-Khanjani/hello-ai) |
+| 🧠 **Hello AI** | My first AI project in Python | *coming soon...* |
 | 📊 **Data Analyzer** | Data analysis tool using Pandas & Matplotlib | *coming soon...* |
 
 ---
 
 ### 📫 Connect with Me:
 - 📧 Email: [behroozkhanjani@gmail.com](mailto:behroozkhanjani@gmail.com)
-- 🎥 YouTube: [My Channel](https://www.youtube.com/)
-- 🌐 Website: [websit.org](https://websit.org)
+- 🎥 YouTube: *coming soon...*
+- 🌐 Website: *coming soon...*
 - 💼 LinkedIn: *coming soon...*
 
 ---
