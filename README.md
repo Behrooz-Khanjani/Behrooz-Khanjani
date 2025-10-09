@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Behrooz Khanjani</h1>
+<h3 align="center">Python Developer & AI Learner from Turkey</h3>
 
-<!--
-**Behrooz-Khanjani/Behrooz-Khanjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💫 About Me:
+- 🔭 I’m currently working on **Artificial Intelligence projects using Python**
+- 🌱 I’m learning **Machine Learning, Deep Learning, and Data Science**
+- 💬 Ask me about **Python, AI, Data Analysis, and Automation**
+- 🎯 Goal: Build real-world AI tools that make life easier
+- ⚡ Fun fact: I enjoy teaching and sharing what I learn on YouTube!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack:
+💻 **Languages:** Python, SQL, HTML, CSS  
+🤖 **AI/ML:** TensorFlow, Scikit-Learn, Pandas, NumPy  
+🧠 **Tools:** VS Code, Git, GitHub, Jupyter, Power BI  
+
+---
+
+### 🚀 My Projects:
+| Project | Description | Link |
+|----------|--------------|------|
+| 🧠 **Hello AI** | My first AI project in Python | [View on GitHub](https://github.com/Behrooz-Khanjani/hello-ai) |
+| 📊 **Data Analyzer** | Data analysis tool using Pandas & Matplotlib | *coming soon...* |
+
+---
+
+### 📫 Connect with Me:
+- 📧 Email: [behroozkhanjani@gmail.com](mailto:behroozkhanjani@gmail.com)
+- 🎥 YouTube: [My Channel](https://www.youtube.com/)
+- 🌐 Website: [websit.org](https://websit.org)
+- 💼 LinkedIn: *coming soon...*
+
+---
+
+⭐️ From [Behrooz-Khanjani](https://github.com/Behrooz-Khanjani)
