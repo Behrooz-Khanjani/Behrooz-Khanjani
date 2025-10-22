@@ -1,5 +1,4 @@
-
-```{"variant":"standard","id":"38127","title":"Final GitHub README"}
+```{"variant":"standard","id":"59283","title":"README.md Final Version"}
 <h1 align="center">Hi there 👋, I'm Behrooz Khanjani</h1>
 <h3 align="center">Python Developer & AI Enthusiast</h3>
 
