@@ -1,9 +1,3 @@
-```{"variant":"standard","id":"59283","title":"README.md Final Version"}
-<h1 align="center">Hi there 👋, I'm Behrooz Khanjani</h1>
-<h3 align="center">Python Developer & AI Enthusiast</h3>
-
----
-
 ### 💫 About Me:
 - 🔭 I’m currently working on **Artificial Intelligence and Machine Learning projects**  
 - 🌱 I’m learning **Deep Learning, Data Science, and real-world AI applications**  
