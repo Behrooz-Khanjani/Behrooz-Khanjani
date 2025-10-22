@@ -37,7 +37,3 @@
 
 ⭐️ *From [Behrooz-Khanjani](https://github.com/Behrooz-Khanjani)*
 ```
-
----
-
-می‌خوای نسخه‌ی فارسی‌ش رو هم برات بنویسم که در README دوم (مثلاً README-fa.md) استفاده کنی؟ خیلی‌ها دوتا نسخه (EN و FA) می‌ذارن برای رزومه‌ی بین‌المللی.
